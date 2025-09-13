@@ -70,7 +70,7 @@ const DownstreamPage = () => {
   className="snap-section min-h-screen flex items-center relative overflow-hidden"
   style={{ scrollSnapAlign: 'start' }}
 >
-  {/* Background Image with Overlay */}
+  {/* Background Image with Overlays */}
   <div 
     className="absolute inset-0 bg-cover bg-center bg-no-repeat"
     style={{
